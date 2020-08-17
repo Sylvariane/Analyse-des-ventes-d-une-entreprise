@@ -10,4 +10,4 @@ Les documents à rendre pour ce projet prennent la forme de deux Notebook, un fi
 - Un fichier ReadMe expliquant le rôle de chacun des Notebook
 - Une présentation au format Powerpoint présentant l'analyse du point de vue du Data Analyst.
 
-Ce projet a été évalué le .... 
+Ce projet a été évalué le 14 août 2020 et a été validé par un évaluateur. 
