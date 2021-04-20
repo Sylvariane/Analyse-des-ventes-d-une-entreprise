@@ -6,6 +6,9 @@
 
 ## Résultats de l'analyse
 
+La partie nettoyage a permis d'isoler les sessions de tests du site qui auraient parasité l'analyse des ventes. Une partie des données est manquante pour le mois d'octobre (disparition des ventes d'une catégorie), il faudra donc prendre en compte cette disparition lors de l'analyse des données de ventes. <br>
+
+
 ## Syllabus du projet
 
 Ce projet a été réalisé dans le cadre de ma formation de Data Analyst. Le but de ce projet était de mettre en lumière plusieurs compétences : 
