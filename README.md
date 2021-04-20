@@ -13,7 +13,7 @@ Dans un premier temps, l'analyse a porté sur les clients et leurs profils.
 L'échantillon comporte presque autant d'hommes que de femmes. On remarque en revanche qu'il existe un plafond pour l'âge minimum qui peut s'expliquer par le fait de devoir avoir au moins 18 ans pour faire des achats sur Internet. Les clients de plus de 80 ans sont, quant à eux, les moins nombreux. 
 
 Ensuite, il a fallu se pencher sur l'un des indicateurs importants : le chiffre d'affaires.
-![6 - CA mensuel](https://user-images.githubusercontent.com/64648386/115453391-de2b5600-a21f-11eb-9660-d977bd62e9be.jpg)
+![6 - CA mensuel](https://user-images.githubusercontent.com/64648386/115453391-de2b5600-a21f-11eb-9660-d977bd62e9be.jpg)<br>
 Ici, le chiffre d'affaire montre une anomalie sur le mois d'octobre. Cette anomalie s'explique par la perte des données de vente de la catégorie 1 sur certaines semaines du mois d'octobre. 
 
 Enfin, on a étudié les comportements clients.
