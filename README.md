@@ -17,7 +17,7 @@ Ensuite, il a fallu se pencher sur l'un des indicateurs importants : le chiffre 
 Ici, le chiffre d'affaire montre une anomalie sur le mois d'octobre. Cette anomalie s'explique par la perte des données de vente de la catégorie 1 sur certaines semaines du mois d'octobre. 
 
 Enfin, on a étudié les comportements clients.
-![17 - categ_age_anova](https://user-images.githubusercontent.com/64648386/115453605-1df23d80-a220-11eb-98b7-8b1a717568e8.jpg)
+![17 - categ_age_anova](https://user-images.githubusercontent.com/64648386/115453605-1df23d80-a220-11eb-98b7-8b1a717568e8.jpg)<br>
 Par exemple, l'âge moyen des client avait un impact sur la catégorie des achats. 
 
 
