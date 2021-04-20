@@ -1,4 +1,12 @@
-# Analyse-vente
+# Analysez les ventes de votre entreprise <br>
+(Projet OpenClassrooms)
+
+*Notebooks du projet disponible ici :* [Notebook nettoyage](https://github.com/Sylvariane/Analyse-des-ventes-d-une-entreprise/blob/master/P04_01_scriptdonn%C3%A9es.ipynb) & [Notebook analyse](https://github.com/Sylvariane/Analyse-des-ventes-d-une-entreprise/blob/master/P04_02_scriptanalyse.ipynb)
+
+
+## Résultats de l'analyse
+
+## Syllabus du projet
 
 Ce projet a été réalisé dans le cadre de ma formation de Data Analyst. Le but de ce projet était de mettre en lumière plusieurs compétences : 
 - La connaissance des tests statistiques fondamentaux (ANOVA, Chi-2 de conformité, coefficient de corrélation, régression linéaire)
